@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c:300,400,500,700');
+* {
+
+}
+.container{
+    height: 300px;
+    background-size: 100%;
+    background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/S5cKz0c8liy0pcki4/transparent-waves-on-white-backround-abstract-animation_s8xy892ix_thumbnail-full01.png);
+    background-image: no-repeat;
+}
+.logo {
+    width: 150px;
+}
+.menu {
+    text-decoration-line: none;
+
+}
